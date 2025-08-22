@@ -1,7 +1,7 @@
 # Ciphers
 # By Avery Leber
 # June 19 2025
-# This code accepts user input in encoding and decoding messages, choosing a cipher type, and choosing a custom offset # or key 
+# Encrypt or decrypt messages using Caesar or Vigenere ciphers.  
 
 class Ciphers:
     def __init__(self, message, direction=1):
@@ -72,4 +72,5 @@ class Vigenere(Ciphers):
 # output results to file
 # add other ciphers 
 # gui?
+
 
