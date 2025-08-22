@@ -1,6 +1,6 @@
 # Ciphers
 # By Avery Leber
-# June 19 2025
+# August 21 2025
 # Encrypt or decrypt messages using Caesar or Vigenere ciphers.  
 
 class Ciphers:
@@ -72,5 +72,6 @@ class Vigenere(Ciphers):
 # output results to file
 # add other ciphers 
 # gui?
+
 
 
